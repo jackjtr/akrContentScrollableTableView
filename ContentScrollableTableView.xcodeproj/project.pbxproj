@@ -22,7 +22,6 @@
 		F94F4A021B5D3D9B002DBAFB /* akrOuterTableHeader.xib in Resources */ = {isa = PBXBuildFile; fileRef = F94F4A011B5D3D9B002DBAFB /* akrOuterTableHeader.xib */; };
 		F94F4A051B5D3EFA002DBAFB /* akrOuterTableHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = F94F4A041B5D3EFA002DBAFB /* akrOuterTableHeader.m */; };
 		F94F4A0C1B5D58C7002DBAFB /* UIImage+akrUIColor.m in Sources */ = {isa = PBXBuildFile; fileRef = F94F4A0B1B5D58C7002DBAFB /* UIImage+akrUIColor.m */; };
-		F9AD77D61B5F77B50009EEC9 /* ContentScrollableTableViewDemo.gif in Resources */ = {isa = PBXBuildFile; fileRef = F9AD77D51B5F77B50009EEC9 /* ContentScrollableTableViewDemo.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -51,7 +50,6 @@
 		F94F4A041B5D3EFA002DBAFB /* akrOuterTableHeader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = akrOuterTableHeader.m; sourceTree = "<group>"; };
 		F94F4A0A1B5D58C7002DBAFB /* UIImage+akrUIColor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+akrUIColor.h"; sourceTree = "<group>"; };
 		F94F4A0B1B5D58C7002DBAFB /* UIImage+akrUIColor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+akrUIColor.m"; sourceTree = "<group>"; };
-		F9AD77D51B5F77B50009EEC9 /* ContentScrollableTableViewDemo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = ContentScrollableTableViewDemo.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,7 +95,6 @@
 		F921E3A41B5BE65E00995B95 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				F9AD77D51B5F77B50009EEC9 /* ContentScrollableTableViewDemo.gif */,
 				F921E3B51B5BE65E00995B95 /* Info.plist */,
 				F921E3A71B5BE65E00995B95 /* AppDelegate.h */,
 				F921E3A81B5BE65E00995B95 /* AppDelegate.m */,
@@ -222,7 +219,6 @@
 				F921E3B41B5BE65E00995B95 /* LaunchScreen.storyboard in Resources */,
 				F921E3C31B5BFEA900995B95 /* akrInnerCollectionViewCell.xib in Resources */,
 				F94F4A021B5D3D9B002DBAFB /* akrOuterTableHeader.xib in Resources */,
-				F9AD77D61B5F77B50009EEC9 /* ContentScrollableTableViewDemo.gif in Resources */,
 				F921E3B11B5BE65E00995B95 /* Assets.xcassets in Resources */,
 				F921E3BE1B5BE77B00995B95 /* akrOuterTableViewCell.xib in Resources */,
 				F921E3AF1B5BE65E00995B95 /* Main.storyboard in Resources */,
